@@ -1,0 +1,20 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "Test node server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xel4ek/NodeServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xel4ek/NodeServer/issues"
+  },
+  "homepage": "https://github.com/Xel4ek/NodeServer#readme"
+}
